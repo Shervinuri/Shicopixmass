@@ -1,0 +1,7 @@
+{
+  "name": "SHΞN™ Imagine Pro - Santa Edition",
+  "description": "Exclusive Christmas Edition of the high-end AI Image Generator. Features rotating keys, luxury aesthetics, and 3D effects.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
