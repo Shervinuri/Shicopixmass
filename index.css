@@ -33,19 +33,6 @@ body {
   50% { transform: translateX(80px); }
 }
 
-.snowflake {
-  position: fixed;
-  top: -10vh;
-  color: #fff;
-  font-size: 1.5em;
-  font-family: Arial, sans-serif;
-  text-shadow: 0 0 10px rgba(255, 215, 0, 0.6), 0 0 20px rgba(220, 20, 60, 0.3);
-  z-index: 5;
-  pointer-events: none;
-  animation: snowfall linear infinite, snowsway 3s ease-in-out infinite;
-  opacity: 0.8;
-}
-
 @keyframes luxuryGlow {
   0%, 100% { 
     box-shadow: 0 0 20px rgba(255, 215, 0, 0.3), 
